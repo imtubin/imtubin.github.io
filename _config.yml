@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "IMSUBIN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "학습**기록**"
+  bio              : ""
   location         : "Somewhere"
   email            :
   links:
