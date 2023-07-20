@@ -298,10 +298,3 @@ defaults:
       layout: single
       author_profile: true
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-
-# Markdown Processing
-kramdown:
-  input: GFM
